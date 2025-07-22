@@ -1,0 +1,18 @@
+{
+  "name": "habr-demo-ai-api",
+  "version": "1.0.0",
+  "description": "Test playground for AI API requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^2.6.12",
+    "dotenv": "^16.3.1"
+  }
+}
