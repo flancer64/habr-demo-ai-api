@@ -14,5 +14,8 @@
   "dependencies": {
     "node-fetch": "^2.6.12",
     "dotenv": "^16.3.1"
+  },
+  "overrides": {
+    "whatwg-url": "13.0.0"
   }
 }
